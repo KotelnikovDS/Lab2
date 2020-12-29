@@ -1,0 +1,15 @@
+table, tr, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    font-size: 12px;
+    text-align: center;
+}
+
+th {
+    font-family: "Arial";
+    font-weight: 800;
+    color: black;   
+}
