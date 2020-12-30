@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial";
+    font-size: 10px;
+}
+
+table, td, tr {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+td:first-child {
+    width: 150px;
+    padding: 10px;
+}
+
+td:not(:first-child) {
+    width: 80px;
+    text-align: center;
+}
+
+.i1 {
+    background-color: #a9def5;
+    color: white;
+}
+
+.i2 {
+    background-color: #cbe8f5;
+    color: #586266;
+}
