@@ -1,0 +1,61 @@
+body {
+    font-family: Arial;
+}
+
+.i1 {
+    border: 10px solid black;
+    background: #db3737;
+    color: white;
+    width: 600px;
+    height: 750px;
+    padding: 20px;
+    text-align: center;
+}
+
+.i2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.i3 {
+    font-size: 80px;
+}
+
+.i4 {
+    font-size: 20px;
+}
+
+.i5 {
+    width: 570px;
+    height: 50px;
+    background: #bf2424;
+    color: white;
+    padding: 10px;
+}
+
+.i6 {
+    background: #bf2424;
+    width: 570;
+    height: 100px;
+    color: white;
+    padding: 10px;
+}
+
+.i7 {
+    width: 570px;
+    text-align: center;
+    height: 100px;
+    font-size: 25px;
+    color: #bf2424;
+    margin-top: 15px;
+    box-shadow: black;
+    background: white;
+}
+
+input::placeholder {
+    color: white;
+}
+
+textarea::placeholder {
+    color: white;
+}
