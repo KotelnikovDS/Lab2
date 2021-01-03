@@ -1,0 +1,23 @@
+tr:hover {
+    background: red;
+}
+
+body {
+    font-family: "Arial";
+    font-size: 10px;
+}
+
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td:first-child {
+    width: 150px;
+    padding: 10px;
+}
+
+td:not(:first-child) {
+    width: 80px;
+    text-align: center;
+}
