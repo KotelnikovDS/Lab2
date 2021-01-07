@@ -1,0 +1,60 @@
+form {
+    margin:10px;
+}
+
+.i1 {
+    height: 2px;
+    background-color: rgba(46, 33, 28, 0.534);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.i2 {
+    height: 2px;
+    background-color: rgba(241, 240, 237, 0.822);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.i3 {
+    width: 200px;
+    height: 40px;
+    margin-left: 80px;
+}
+
+.i3:focus {
+    width: 260px;
+    height: 60px;
+}
+
+input:valid{
+    border: 3px solid  #39d340;
+    border-radius: 3px;
+    background: url(Galochka.png) no-repeat right ;
+}
+
+label {
+    font-family: "Calibri";
+    font-size: larger;
+}
+
+.i4 {
+    width: 200px;
+    height: 60px;
+    margin-left: 80px;
+}
+
+.i4:focus {
+    width: 300px;
+    height: 100px;
+}
+
+.button {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: #39d340;
+    border-color: #278b24;
+    margin-left: 60px;
+}
