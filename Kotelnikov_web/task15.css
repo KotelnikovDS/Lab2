@@ -1,0 +1,55 @@
+.i1 {
+    border: 1px solid #cc7d15;
+    margin: 20px;
+}
+
+.i2 {
+    list-style-type: none;
+    height: 25px;
+    margin-top: 0px;
+    padding: 10px;
+    background-color: #cc7d15;
+}
+
+li {
+    display:inline;
+}
+
+.i2 a {
+    padding: 15px;
+    font-size: 20px ;
+    text-decoration: none;
+    color: white;
+}
+
+h1,h2 {
+    text-align: center;
+    color: hsl(24, 68%, 36%)
+}
+
+p {
+    text-align:justify;
+    text-indent: 40px;
+    margin: 10px;
+    color: #cc7d15;
+}
+
+.i2 .i3 {
+    background-color: white;
+    color: #cc7d15;
+}
+
+.i2 a:hover{
+    background-color: white;
+    color: #cc7d15;
+}
+
+.i4{
+    text-align: center;
+}
+
+.i4 a {
+    text-decoration: none;
+    color: hsl(24, 68%, 36%);
+    padding: 10px;
+}
